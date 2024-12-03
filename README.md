@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @dariusxdmemes
-- 🌱 I’m learning programming
-- 👀 I’m currently learning Java, Python and ST
-- 👍 Great ideas and no idea of how to develop them
+I hate Java.
